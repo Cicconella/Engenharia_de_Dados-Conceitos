@@ -23,6 +23,44 @@
 - Sistemas que estão entrelaçados possuem uma dependência das funções entre si, e caso alguma delas apresente problemas, pode ser complicado fazer a troca da mesma no mesmo sistema, pois nunca se sabe o que pode usando-a.
 - Arquiteturas distribuídas pode-se trabalhar nessa parte que houve problema com mais liberdade e versioná-la caso seja preciso.
 
+# Funções
+
+## Coleta
+- Escolher ferramentas para coletar informações
+- Ser capaz de ler todos os tipos de dados
+- Encaminhar os dados para o local correto
+
+## Transformação
+- Validar os dados
+- Ex.: Dados faltantes
+
+## Armazenamento
+- Centralizada ou distribuída
+
+## Distribuição
+- Disponibilizar dados de forma democrática.
+- Fácil acesso aos dados para todos os profissionais
+
+# Perfis
+
+## Analista
+- **Função:** Analisar de dados.
+- **Valor:** Provisionamento em larga escala e um modelo de dados ligado diretamente ao aprendizado de máquinas.
+
+## Construtor
+- **Função:** Pensar nas situações em que haverá expansões do sistema, por exemplo, interação entre dados de equipamentos, comunicação rápida, backup e alta disponibilidade.
+- **Valor:** Preparação do sistema para ter escalabilidade.
+
+## Desenvolvedor
+- **Função:** Desenvolver soluções para questões particulares de forma otimizada, interação entre sistemas, como o local e nuvem. Necessita de conhecimento de arquitetura.
+- **Valor:** Promoção de soluções específicas. 
+
+
+## Generalista
+- **Função:** Mix dos outros perfis.
+- Sistemas locais e entender as bases de dados;
+- Ferramentas necessárias para a manutenção e construção de softwares;
+- Ter experiência com ambientes Linux e linguagens de programação que lidam com dados.
 
 # Referências
 
