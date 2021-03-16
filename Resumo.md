@@ -9,7 +9,7 @@
 
 # Com o que se preocupar?
 
-- Armmazenamento
+- Armazenamento
 - Distribuição
 - Limpeza
 - Transformação e relacionamento
