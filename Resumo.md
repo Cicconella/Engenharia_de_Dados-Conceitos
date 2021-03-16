@@ -88,7 +88,7 @@ Estruturados em tabelas relacionadas.
 ## Não relacional (NoSQL)
 São orientados a objeto, ou seja, toda uma estrutura de dados será ligada a um documento ou a uma chave, por exemplo, o JSON.
 
-- Dados dinâmicos: cada registro no precisa seguir um padrão.
+- Dados dinâmicos: cada registro não precisa seguir um padrão.
 - Muito utilizado para casos de escalablidade.
 
 ## Datastores
